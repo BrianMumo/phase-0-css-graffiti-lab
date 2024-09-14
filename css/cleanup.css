@@ -1,4 +1,4 @@
 /* write your override styles here */
-div #wall #tag-3 {
+#wall .slick {
     display: none;
 }
